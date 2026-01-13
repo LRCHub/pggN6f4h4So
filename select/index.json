@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "INFECTED",
+  "base_artist": "STARSET",
+  "createdAt": "2026-01-13T15:03:43.322114Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Every You Every Me (Infected by the Scourge of the Earth)",
+      "artist": "Placebo",
+      "has_synced": false,
+      "path": "select/01_Every_You_Every_Me_(Infected_by_the_Scourge_of_the_Earth)_Placebo.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Infected Girls",
+      "artist": "Electric Six",
+      "has_synced": true,
+      "path": "select/02_Infected_Girls_Electric_Six.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Infected Girls",
+      "artist": "Electric Six",
+      "has_synced": true,
+      "path": "select/03_Infected_Girls_Electric_Six.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Dis-Infected",
+      "artist": "THE THE",
+      "has_synced": false,
+      "path": "select/04_Dis-Infected_THE_THE.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "From Russia Infected",
+      "artist": "Gary Numan",
+      "has_synced": false,
+      "path": "select/05_From_Russia_Infected_Gary_Numan.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Infected (12″ version)",
+      "artist": "THE THE",
+      "has_synced": false,
+      "path": "select/06_Infected_(12′′_version)_THE_THE.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Infected",
+      "artist": "U.D.O.",
+      "has_synced": true,
+      "path": "select/07_Infected_U.D.O..lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Infected",
+      "artist": "Obituary",
+      "has_synced": false,
+      "path": "select/08_Infected_Obituary.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Infected Voice - 2018 Remaster",
+      "artist": "Sepultura",
+      "has_synced": true,
+      "path": "select/09_Infected_Voice_-_2018_Remaster_Sepultura.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Infected Voice (Remastered)",
+      "artist": "Sepultura",
+      "has_synced": true,
+      "path": "select/10_Infected_Voice_(Remastered)_Sepultura.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Infected (Live)",
+      "artist": "Obituary",
+      "has_synced": false,
+      "path": "select/11_Infected_(Live)_Obituary.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Infected [Live]",
+      "artist": "Obituary",
+      "has_synced": false,
+      "path": "select/12_Infected_[Live]_Obituary.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Infected",
+      "artist": "PARADOX",
+      "has_synced": true,
+      "path": "select/13_Infected_PARADOX.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Riders on the Storm (Infected Mushroom remix)",
+      "artist": "The Doors",
+      "has_synced": false,
+      "path": "select/14_Riders_on_the_Storm_(Infected_Mushroom_remix)_The_Doors.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "INFECTED",
+      "artist": "STARSET",
+      "has_synced": false,
+      "path": "select/pl_01_INFECTED_STARSET.txt"
+    }
+  ]
+}
